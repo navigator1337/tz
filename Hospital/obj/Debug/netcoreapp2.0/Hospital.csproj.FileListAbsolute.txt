@@ -1,0 +1,4 @@
+C:\Users\navig\Desktop\ТЗ\Hospital\obj\Debug\netcoreapp2.0\Hospital.csprojAssemblyReference.cache
+C:\Users\navig\Desktop\ТЗ\Hospital\obj\Debug\netcoreapp2.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\navig\Desktop\ТЗ\Hospital\obj\Debug\netcoreapp2.0\Hospital.AssemblyInfo.cs
+C:\Users\navig\Desktop\ТЗ\Hospital\obj\Debug\netcoreapp2.0\Hospital.csproj.CoreCompileInputs.cache
